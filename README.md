@@ -1,5 +1,8 @@
 <img width="1223" height="443" alt="image" src="https://github.com/user-attachments/assets/f4938ab9-6228-4478-8c45-4eee40f1a11e" />
 
+CIS Report Generator
+The app was create to help me make clean report by using information from CIS CSAT portal. After you finish the report and get scores per safeguard, you can then build nice report with custom features.
+Please find example report in root.
 
 Installing and running the app on linux
 ```
