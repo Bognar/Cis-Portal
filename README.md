@@ -1,4 +1,5 @@
-[![App Screenshot](cis project)](https://github.com/Bognar/Cis-Portal/blob/0920186a4db83905f9efe57c4bf9420b05e5100a/cis%20project%20image.png)
+<img width="1223" height="443" alt="image" src="https://github.com/user-attachments/assets/f4938ab9-6228-4478-8c45-4eee40f1a11e" />
+
 On ubuntu or Windows create folder for project and to project location with cli
 
 Create VNEV environment :
