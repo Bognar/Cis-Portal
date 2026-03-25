@@ -6,10 +6,10 @@ The app was create to help me make clean report by using information from CIS CS
 
 Feature list:
 
-*Text bolding can be added to any text box: ***boldtext** 
-*Image imports for all sections including cover page and each of major sections.
-*Export work into json file and import later if needed - Project Management but, images will not get imported.
-*Generating report into PDF format.
+* Text bolding can be added to any text box: (three stars)boldtext(two stars)
+* Image imports for all sections including cover page and each of major sections.
+* Export work into json file and import later if needed - Project Management but, images will not get imported.
+* Generating report into PDF format.
 
 Please find example report in root.
 
