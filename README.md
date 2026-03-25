@@ -1,11 +1,25 @@
 <img width="1223" height="443" alt="image" src="https://github.com/user-attachments/assets/f4938ab9-6228-4478-8c45-4eee40f1a11e" />
 
 
-Installing and running the app
+Installing and running the app on linux
 ```
+mkdir yourprojectname
+cd jourprojectname
 python3 -m venv venv
 source venv/bin/activate
 Git clone https://github.com/Bognar/Cis-Portal.git
+cd Cis-Portal
+pip install streamlit fpdf2
+streamlit run app.py
+```
+Installing and running app on windows
+```
+mkdir yourprojectname
+cd yourprojectname
+python -m venv venv
+.\venv\Scripts\activate
+git clone https://github.com/Bognar/Cis-Portal.git
+cd Cis-Portal
 pip install streamlit fpdf2
 streamlit run app.py
 ```
