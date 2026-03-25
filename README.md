@@ -2,6 +2,12 @@
 
 CIS Report Generator
 The app was create to help me make clean report by using information from CIS CSAT portal. After you finish the report and get scores per safeguard, you can then build nice report with custom features.
+Feature list:
+Text bolding can be added to any text box: ***boldtext** 
+Image imports for all sections including cover page and each of major sections.
+Export work into json file and import later if needed.
+Generating report into PDF format.
+
 Please find example report in root.
 
 Installing and running the app on linux
