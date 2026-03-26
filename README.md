@@ -16,7 +16,7 @@ Please find example report in root.
 Installing and running the app on linux
 ```
 mkdir yourprojectname
-cd jourprojectname
+cd yourprojectname
 python3 -m venv venv
 source venv/bin/activate
 Git clone https://github.com/Bognar/Cis-Portal.git
